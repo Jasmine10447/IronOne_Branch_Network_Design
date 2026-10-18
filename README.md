@@ -12,7 +12,6 @@
   <img src="https://img.shields.io/badge/Router-Network%20Routing-EF4444" alt="Router">
   <img src="https://img.shields.io/badge/Switch-Layer%202%20Networking-2563EB" alt="Switching">
   <img src="https://img.shields.io/badge/Inter--VLAN-Routing-DB2777" alt="Inter-VLAN Routing">
-  <br>
   <img src="https://img.shields.io/badge/IP%20Subnetting-Network%20Planning-0891B2" alt="IP Subnetting">
   <img src="https://img.shields.io/badge/Server-Network%20Services-7C3AED" alt="Server">
   <img src="https://img.shields.io/badge/PC-End%20Devices-65A30D" alt="End Devices">
