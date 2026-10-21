@@ -38,10 +38,6 @@ The network topology illustrates the departmental network layout, device interco
 
 ![IronOne Network Topology](Network%20Design/IronOne-Network-Blueprint.png)
 
-*Figure: IronOne departmental network topology designed in Cisco Packet Tracer.*
-
-> Replace the image path above with the actual location and filename of your network screenshot in this repository.
-
 ---
 
 ## 🏢 Departmental Network Segmentation
