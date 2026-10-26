@@ -36,7 +36,7 @@ The project demonstrates practical networking concepts, including network topolo
 
 The network topology illustrates the departmental network layout, device interconnections, access switches, router connectivity, and server room.
 
-![IronOne Network Topology](Network%20Design/IronOne-Network-Blueprint.png)
+![IronOne Network Topology](IronOne%20Network%20Design/Blueprint%20of%20Network%20Diagram%202.png)
 
 ---
 
